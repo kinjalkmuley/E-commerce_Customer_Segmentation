@@ -11,8 +11,7 @@
 - [Usage](#usage)
 - [Results](#results)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Introduction
 
